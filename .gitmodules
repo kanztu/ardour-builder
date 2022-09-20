@@ -1,0 +1,3 @@
+[submodule "ardour"]
+	path = ardour
+	url = git://git.ardour.org/ardour/ardour.git
